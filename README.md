@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AttawatThaninsiripittayar
 - 👀 I’m interested in Data Engineering technology, AI, Big Data, Forex investment
 - 🌱 I’m currently learning Data Structure & Algorithm
-- 💞️ I’m looking to collaborate on Company in the position of Junior Data Engineer
+- 💞️ I’m looking to collaborate on company in the position of Junior Data Engineer
 - 📫 How to reach me @ attawat.thaninsiripittayar@gmail.com
 
 <!---
